@@ -91,7 +91,6 @@ a:hover{
         top: 38%;
         left: 0;
         margin: -79px -57px;
-        background: #fff url(bodegao.png) no-repeat center center;
     }
     .logo:before{
         content: '';
